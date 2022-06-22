@@ -1,0 +1,9 @@
+Ejercicio varias tablas: La condición de salida debe ser mientras tabla sea diferente de cero. 
+Si una tabla es negativa, igual se debe calcular, y no debe finalizar con un return.
+
+
+Archivo ejemplobucledowhile.cpp vacío
+Archivo ejemplobuclefor.cpp vacío
+Archivo ejemplobuclewhile.cpp vacío
+
+Calificación: 1.5/3.0
