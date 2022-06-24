@@ -6,4 +6,4 @@ Archivo ejemplobucledowhile.cpp vacío
 Archivo ejemplobuclefor.cpp vacío
 Archivo ejemplobuclewhile.cpp vacío
 
-Calificación: 1.5/3.0
+Calificación: 2.0/3.0
